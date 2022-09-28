@@ -1,0 +1,17 @@
+---
+compiled_package_info:
+  package_name: TauCoin
+  address_alias_instantiation: {}
+  source_digest: 4451866E7F5FFB1E34D9ADB118845FD66316E63965742B3830C83C4166285F2B
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    fetch_latest_git_deps: false
+dependencies: []
